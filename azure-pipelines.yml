@@ -5,7 +5,7 @@ pr:
 - main
 
 pool:
-  name: 'Azure Pipelines'
+  name: 'MyAgent'
 
 steps:
 - task: DotNetCoreCLI@2
